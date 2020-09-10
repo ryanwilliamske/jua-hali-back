@@ -1,4 +1,6 @@
-# jua-hali-back
+# Jua-Hali is a disaster-tracking application
+
+## This is jua-hali-back
 Used alongside jua-hali-client
-See https://github.com/ryanwilliamske/jua-hali-client for the front end
+See <a href="https://github.com/ryanwilliamske/jua-hali-client">this</a> for the front end
 THANKS!
